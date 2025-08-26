@@ -60,7 +60,7 @@
 
 ### [FE 컨벤션](https://www.notion.so/5-FE-2408f2d1a2bb80ff815cfe759f2807eb)
 
-### [BE 컨벤션]()
+### [BE 컨벤션](https://github.com/be-main-project-team5/main_BE?tab=readme-ov-file#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B7%9C%EC%B9%99)
 
 ### Communication Rules
 
