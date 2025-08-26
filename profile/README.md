@@ -2,9 +2,10 @@
 
 ### 최애 아이돌의 스케줄, 더 이상 놓치지 마세요!
 
-팬, 아이돌, 그리고 매니저가 함께 만들어가는 스케줄 관리 서비스, Idol-Schedule입니다. 팬들은 내가 좋아하는 아이돌과 그룹의 스케줄을 한눈에 모아보고, 아이돌과 매니저는 스케줄을 손쉽게 등록하고 관리할 수 있습니다.
+DingDing은 팬, 아이돌, 그리고 매니저가 함께 만들어가는 스케줄 관리 서비스입니다. 팬들은 내가 좋아하는 아이돌과 그룹의 스케줄을 한눈에 모아보고, 아이돌과 매니저는 스케줄을 손쉽게 등록하고 관리할 수 있습니다.
 
 # 🔗 배포 링크
+https://www.moyeoradingding.site
 
 # 🗣️ 프로젝트 발표 자료
 
@@ -14,23 +15,23 @@
 
 | 랜딩 페이지 | 회원가입 페이지 | 로그인 페이지 |
 | ----------- | --------------- | ------------- |
-|             |                 |               |
+| <img src="https://github.com/user-attachments/assets/fa529f52-0aa0-4521-ba31-275c7e1712e1" width="300"/> | <img src="https://github.com/user-attachments/assets/4d01540c-514b-4126-92f8-ef8a5af0804b" width="300"/> | <img src="https://github.com/user-attachments/assets/c86e257a-0bfd-45af-b5ed-942c724771ee" width="300"/> |
 
-| 일반 회원 메인 | 아이돌 상세 | 내 프로필 |
-| ----------- | ------------- | --------- |
-|             |               |           |
+| 일반 회원 메인 페이지 | 아이돌 스케줄 상세 페이지 | 마이페이지 - 내 프로필 |
+| --------------------- | ------------------------- | ---------------------- |
+| <img src="https://github.com/user-attachments/assets/9a6049c8-e342-40c9-9b27-2bb0417ff700" width="300"/> | <img src="https://github.com/user-attachments/assets/174777a7-3d55-4eaf-aace-0cacc6e456fe" width="300"/> | <img src="https://github.com/user-attachments/assets/ba36cb46-e0c5-4d3b-993c-540bb2c35535" width="300"/> |
 
-| 찜한 스케줄 | 아이돌 메인 | 매니저 메인 |
-| ----------- | ----------- | ----------- |
-|             |             |             |
+| 마이페이지 - 찜한 스케줄 | 아이돌 메인 페이지 | 매니저 메인 페이지 |
+| ------------------------ | ------------------ | ------------------ |
+| <img src="https://github.com/user-attachments/assets/655dd4ba-7fda-4e35-95e9-6e2913ddf66b" width="300"/> |  | <img src="https://github.com/user-attachments/assets/f253fc57-6330-4db6-be08-730a08683bd1" width="300"/> |
 
-| 관리자 메인 | 채팅 |
-| ----------- | ---- |
-|             |      |
+| 관리자 메인 페이지 | 아이돌-매니저 채팅 페이지 |
+| ------------------ | ------------------------- |
+| <img src="https://github.com/user-attachments/assets/9002e914-a27a-4887-8076-4da8e575736c" width="300"/> |  |
+
 
 ### 주요 기능
 
-### 반응형
 
 # 🧰 기술 스택
 
