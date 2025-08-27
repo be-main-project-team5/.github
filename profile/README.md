@@ -11,7 +11,7 @@ https://www.moyeoradingding.site
 
 # 🖥️ 서비스 소개
 
-### 페이지 구성
+## 페이지 구성
 
 | 랜딩 페이지 | 회원가입 페이지 | 로그인 페이지 |
 | ----------- | --------------- | ------------- |
@@ -28,9 +28,6 @@ https://www.moyeoradingding.site
 | 관리자 메인 페이지 | 아이돌-매니저 채팅 페이지 |
 | ------------------ | ------------------------- |
 | <img src="https://github.com/user-attachments/assets/9002e914-a27a-4887-8076-4da8e575736c" width="250"/> | <img src="https://github.com/user-attachments/assets/7c1aefe4-d788-498d-9cb2-7ee9d6dd37d2" width="250"/> | 
-
-
-### 주요 기능
 
 
 # 🧰 기술 스택
